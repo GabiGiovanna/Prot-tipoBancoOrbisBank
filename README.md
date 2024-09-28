@@ -1,4 +1,4 @@
-# Prot-tipoBancoOrbisBank
+# PrototipoBancoOrbisBank
 
 
 2. Aplicativo de Banco Digital Contexto: Um aplicativo de banco digital permite que clientes realizem transações financeiras de forma rápida e segura.
